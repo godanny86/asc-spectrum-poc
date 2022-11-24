@@ -1,0 +1,8 @@
+# Apparently this only works in the root of the project:
+# https://github.com/prettier/prettier/issues/4081
+
+.yarn
+.yarnrc.yml
+build
+dist
+coverage
